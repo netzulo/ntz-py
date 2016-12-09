@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
     name='ntz-py',
     packages=['ntz-py'],
-    version='0.1',
+    version='0.3',
     description='Ntz own libraries for python',
     author='Netzulo.com',
     author_email='netzuleando@gmail.com',
